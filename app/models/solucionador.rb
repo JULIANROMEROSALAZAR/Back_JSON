@@ -1,0 +1,2 @@
+class Solucionador < ApplicationRecord
+end

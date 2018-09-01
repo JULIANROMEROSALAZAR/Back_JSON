@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  id_Retador: 1
+  descripcion: MyString
+  id_Estado: 1
+  fecha_Creacion: 2018-08-29 09:37:53
+  fecha_Finalizacion: 2018-08-29 09:37:53
+
+two:
+  id: 1
+  id_Retador: 1
+  descripcion: MyString
+  id_Estado: 1
+  fecha_Creacion: 2018-08-29 09:37:53
+  fecha_Finalizacion: 2018-08-29 09:37:53

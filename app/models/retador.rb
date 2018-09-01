@@ -1,0 +1,2 @@
+class Retador < ApplicationRecord
+end

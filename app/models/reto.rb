@@ -1,0 +1,2 @@
+class Reto < ApplicationRecord
+end
